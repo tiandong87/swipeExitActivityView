@@ -1,0 +1,2 @@
+# swipeExitActivityView
+swipeExitActivity
