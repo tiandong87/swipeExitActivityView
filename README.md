@@ -1,10 +1,10 @@
 # SwipeExitActivityView
 Android Lib SwipeExitActivity.
 
-<code>
+<pre>
  @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState); 
         new SwipeExitActivityLayout(this);
     }
-</code>
+</pre>
